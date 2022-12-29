@@ -45,5 +45,5 @@ git 주소 등록
 - git config --global user.email "cghhld@naver.com"
 - git config --global user.name "SunHyeok"
 
-
+[수업자료](https://syllaverse.com/courses/17/s/15/curriculum)
 
