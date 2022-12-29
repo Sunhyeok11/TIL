@@ -7,3 +7,5 @@ markdown 배우기
 github
 
 # 2022-12-29
+
+git branch & git pr
